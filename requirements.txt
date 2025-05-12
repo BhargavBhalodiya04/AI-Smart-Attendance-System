@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+face_recognition
+numpy
+pillow
+pandas
+requests
+facenet-pytorch==2.5.2
+torch==2.5.0
+scikit-learn
+
+reportlab

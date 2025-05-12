@@ -1,0 +1,16 @@
+data:
+  dataset_path: registered_faces
+  image_size:
+  - 160
+  - 160
+  train_split: 0.8
+logging:
+  log_dir: logs/
+  verbose: true
+model:
+  name: face_recognition_model
+  save_path: models/face_recognition_model.pkl
+training:
+  algorithm: facenet
+  num_components: 100
+  threshold: 50.0

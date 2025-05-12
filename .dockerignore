@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.db
+*.sqlite3
+venv/
+.env
+dataset/
+models/
+*.zip
+train.py
