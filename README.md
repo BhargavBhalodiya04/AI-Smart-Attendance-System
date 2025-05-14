@@ -8,5 +8,3 @@ pinned: false
 license: mit
 short_description: Smart Attendance System Using MTCNN
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
