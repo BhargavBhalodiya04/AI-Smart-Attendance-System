@@ -1,8 +1,6 @@
 ---
 title: AI Project
 emoji: ⚡
-colorFrom: pink
-colorTo: yellow
 sdk: docker
 pinned: false
 license: mit
