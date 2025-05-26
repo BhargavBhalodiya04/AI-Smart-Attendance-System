@@ -2,8 +2,7 @@ import os
 import cv2
 import torch
 import yaml
-from facenet_pytorch import MTCNN, InceptionResnetV1
-
+from facenet_pytorch import MTCNN, InceptionResnetV
 # Setup
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 mtcnn = MTCNN(keep_all=True, device=device)
